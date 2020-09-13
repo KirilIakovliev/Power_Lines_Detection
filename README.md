@@ -8,7 +8,7 @@ Model's checkpoint: https://drive.google.com/file/d/1NEn0e2p_pGb0D6m9SbGwKTn4sgJ
 Instructions for a new training: Put Images and Annotations to the same folder and follow instructions 
 in the notebook file
 
-To predict upload the model and put it in the same folder with .ipynb file
+To make predictions just upload the model and put it in the same folder with .ipynb file
 
 Model: ResNet-50 without pretrained layers saved as a pickle object
 
