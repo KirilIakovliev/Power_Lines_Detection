@@ -18,4 +18,4 @@ So far model has been trained for 46 epochs
 The code itlself is based on this [guide](https://programmer.group/train-your-faster-rcnn-target-detection-model-using-pytorch.html) to organize data and 
 Pytorch [libraries](https://github.com/pytorch/vision/tree/master/references/detection) for object detection.
 
-![Prediction](examples/prediction.jpg?raw=true "Title")
+![Prediction](examples/prediction.jpeg?raw=true "Title")
