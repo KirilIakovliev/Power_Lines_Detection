@@ -3,6 +3,8 @@ Prototype to detect insulators from UAV camera
 
 Dataset: https://drive.google.com/drive/folders/1h4uj4hO9eyqr-qXLefe5TiEfVK0nAy3e?usp=sharing
 
+Model's checkpoint: https://drive.google.com/file/d/1NEn0e2p_pGb0D6m9SbGwKTn4sgJUJocR/view?usp=sharing
+
 Instructions for the dataset: Put Images and Annotations to the same folder and follow instructions 
 in the notebook file
 
