@@ -5,8 +5,10 @@ Dataset: https://drive.google.com/drive/folders/1h4uj4hO9eyqr-qXLefe5TiEfVK0nAy3
 
 Model's checkpoint: https://drive.google.com/file/d/1NEn0e2p_pGb0D6m9SbGwKTn4sgJUJocR/view?usp=sharing
 
-Instructions for the dataset: Put Images and Annotations to the same folder and follow instructions 
+Instructions for a new training: Put Images and Annotations to the same folder and follow instructions 
 in the notebook file
+
+To predict upload the model and put it in the same folder with .pynb file
 
 Model: ResNet-50 without pretrained layers saved as a pickle object
 
