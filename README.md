@@ -15,4 +15,3 @@ So far model has been trained for 46 epochs
 The code itlself is based on the this [guide](https://programmer.group/train-your-faster-rcnn-target-detection-model-using-pytorch.html) to organize data and 
 Pytorch [libraries](https://github.com/pytorch/vision/tree/master/references/detection) for object detection.
 
-Don't forget to change cv2_imshow inherited from Google Colab to plt.im_show during prediction 
