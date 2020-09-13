@@ -8,7 +8,7 @@ Model's checkpoint: https://drive.google.com/file/d/1NEn0e2p_pGb0D6m9SbGwKTn4sgJ
 Instructions for the dataset: Put Images and Annotations to the same folder and follow instructions 
 in the notebook file
 
-Model: ResNet-50 without pretrained layers saved as pickle object
+Model: ResNet-50 without pretrained layers saved as a pickle object
 
 So far model has been trained for 46 epochs
 
