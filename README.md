@@ -7,7 +7,5 @@ Model: ResNet-50 without pretrained layers
 
 So far model has been trained for 40 epochs
 
-The code itlself is based on the this [link](https://programmer.group/train-your-faster-rcnn-target-detection-model-using-pytorch.html)
-
-
-guide to organize data and 
+The code itlself is based on the this [guide](https://programmer.group/train-your-faster-rcnn-target-detection-model-using-pytorch.html) to organize data and 
+pytorch [libraries](https://github.com/pytorch/vision/tree/master/references/detection) for object detection.
