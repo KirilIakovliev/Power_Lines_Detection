@@ -10,7 +10,7 @@ in the notebook file
 
 To make predictions just upload the model and put it in the same folder with .ipynb file
 
-Model: ResNet-50 without pretrained layers saved as a pickle object
+Model: ResNet-50 without pretrained layers. Saved as a pickle object
 
 So far model has been trained for 46 epochs
 
