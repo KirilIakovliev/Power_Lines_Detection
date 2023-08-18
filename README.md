@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 OK let's try auto build
+=======
+Test mode
+>>>>>>> 59e471362d0982c43c82564f289568883b378088
 
 # Power_Lines_Detection
 Prototype to detect insulators from UAV camera
