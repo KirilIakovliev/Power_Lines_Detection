@@ -1,12 +1,4 @@
 
-IT IS FOR JENKINS
-
-
-NEW LINES 
-
-
-THIS IS ALL FOR JENKINS
-
 # Power_Lines_Detection
 Prototype to detect insulators from UAV camera
 
