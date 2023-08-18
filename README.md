@@ -1,8 +1,3 @@
-NEW Project for Jenkins test
-
-
-Let's try auto build
-
 # Power_Lines_Detection
 Prototype to detect insulators from UAV camera
 
