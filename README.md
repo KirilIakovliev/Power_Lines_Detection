@@ -1,7 +1,4 @@
 
-WILL TRY TO USE IT AS THE JENKINS PROJECT
-
-
 # Power_Lines_Detection
 Prototype to detect insulators from UAV camera
 
